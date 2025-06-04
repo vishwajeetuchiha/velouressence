@@ -1,0 +1,14 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"youtude_video_id": {
+				"__TYPE__": "FieldContent",
+				"value": "huge",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
