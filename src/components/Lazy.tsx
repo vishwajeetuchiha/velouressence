@@ -1,6 +1,6 @@
 "use client"
 
-import { Component, ComponentProps, useEffect, useRef, useState } from "react"
+import {  ComponentProps, useEffect, useRef, useState } from "react"
 
 type LazyProps = ComponentProps<"div"> & {
     rootMargin?: string;

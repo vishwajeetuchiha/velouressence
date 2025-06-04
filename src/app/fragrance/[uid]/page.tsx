@@ -4,7 +4,6 @@ import { asImageSrc, asText } from "@prismicio/client";
 import { PrismicRichText, PrismicText,  } from "@prismicio/react";
 
 import { createClient } from "@/prismicio";
-// import { components } from "@/slices";
 import { Bounded } from "@/components/Bounded";
 import { PrismicNextImage } from "@prismicio/next";
 import { FragranceAttributes } from "@/components/FragranceAttributes";

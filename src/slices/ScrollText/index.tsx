@@ -2,7 +2,7 @@
 
 import { FC, useRef } from "react";
 import { asText, Content } from "@prismicio/client";
-import { SliceComponentProps } from "@prismicio/react";
+import { SlicentProps } from "@prismicio/react";
 import { useGSAP } from "@gsap/react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
